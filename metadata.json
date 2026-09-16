@@ -1,0 +1,6 @@
+{
+  "name": "LingoNovel AI",
+  "description": "AI-powered document and novel translator preserving context, formatting, and terminology.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
